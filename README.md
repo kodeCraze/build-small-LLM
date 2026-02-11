@@ -10,6 +10,12 @@ This project demonstrates a simple RNN-based language model trained on the strin
 
 ## Directory Structure  
 
+| File | Description |
+|------|-------------|
+| `Small_language_model.ipynb` | Minimal character-level RNN language model |
+| `Build_Real_LLM.ipynb` | Production-grade GPT-style Transformer LLM |
+| `Conversational_COT_LLM.ipynb` | **Conversational COT LLM** – Chain-of-Thought reasoning, tool-use & MCP server integration |
+
 ---
 
 ### Installation & Setup  
